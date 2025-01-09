@@ -69,3 +69,45 @@ c) Maximum height of the component at the bottom side: 1mm
 ![Screenshot 2025-01-09 104809](https://github.com/user-attachments/assets/6b06fdfe-9e83-458a-ac29-2a6d5e139105)
 
 ![Screenshot 2025-01-09 110020](https://github.com/user-attachments/assets/e5cd43b7-97f1-428b-a537-e0126b69c5c0)
+
+</details>
+
+# Task 1
+
+<details>
+<summary> C Based Lab Task </summary>
+<br>
+  
+## Text editor view of sum1ton.c displaying the clean, commented source code with proper formatting and standard C library inclusion.
+
+![Screenshot 2025-01-09 113819](https://github.com/user-attachments/assets/366f56e3-d7cf-47c5-aab6-5a0c91f41980)
+
+## Terminal output showing multiple test runs of the program with different inputs (7, 8, 9) and their corresponding sum outputs (28, 36, 45), validating program functionality.
+
+![Screenshot 2025-01-09 113757](https://github.com/user-attachments/assets/9b3cb810-7e07-4942-99be-4d8f31ada450)
+
+</details>
+
+<details>
+<summary> Setting Up O1 and Ofast </summary>
+<br>
+  
+## Source code of sum1ton.c showing the C implementation with basic loop structure to calculate cumulative sum, along with RISC-V compilation commands using different optimization flags.
+
+![Screenshot 2025-01-09 155520](https://github.com/user-attachments/assets/294231dc-6cc3-48e7-a5dd-e97fe9626608)
+
+</details>
+
+<details>
+<summary> RISC Based Lab Task </summary>
+<br>
+  
+## Assembly code output showing the main function implementation with memory management, stack pointer adjustments, and function calls for printf and scanf operations also calculating the number of instructions used to implement the program using O1.
+
+![Screenshot 2025-01-09 154246](https://github.com/user-attachments/assets/82d92c6f-f7da-4bb6-a13a-85b3d32a69c2)
+
+## Assembly code output showing the main function implementation with memory management, stack pointer adjustments, and function calls for printf and scanf operations also calculating the number of instructions used to implement the program using Ofast.
+
+![Screenshot 2025-01-09 154813](https://github.com/user-attachments/assets/1993d97b-1c4b-4811-a589-03049639d8ac)
+
+
