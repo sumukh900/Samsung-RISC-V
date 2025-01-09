@@ -65,3 +65,7 @@ c) Maximum height of the component at the bottom side: 1mm
 ![Screenshot 2025-01-08 232054](https://github.com/user-attachments/assets/962b47e0-375d-4f4a-b022-b38b54f0bfc7)
 
 ![Screenshot 2025-01-08 232115](https://github.com/user-attachments/assets/9ac864cb-1705-4275-84eb-3c03eb589d00)
+
+![Screenshot 2025-01-09 104809](https://github.com/user-attachments/assets/6b06fdfe-9e83-458a-ac29-2a6d5e139105)
+
+![Screenshot 2025-01-09 110020](https://github.com/user-attachments/assets/e5cd43b7-97f1-428b-a537-e0126b69c5c0)
